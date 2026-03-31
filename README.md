@@ -1,0 +1,1 @@
+# cerita-papua-timika-
