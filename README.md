@@ -2,56 +2,55 @@
 
 > *“Mungkin yang jauh bukan Papua… tapi cara kita melihatnya.”*
 
-Sebuah website storytelling interaktif yang membawa pengguna menyelami perspektif tentang Papua. tidak hanya dari apa yang terlihat, tapi juga dari apa yang dirasakan.
+🔗 **Live Demo:**
+👉 https://agusadhitama.github.io/cerita-papua/
 
 ---
 
 ## ✨ Tentang Project
 
-Project ini adalah **website berbasis storytelling interaktif** dengan pendekatan visual sinematik dan pengalaman imersif.
+**Papua : A Journey Beyond Distance** adalah website storytelling interaktif yang mengajak pengguna melihat Papua dari perspektif yang berbeda.
 
-Dibuat untuk:
-
-* Menyampaikan pesan melalui cerita
-* Menggabungkan desain, animasi, dan emosi
-* Memberikan pengalaman berbeda dari website biasa
+Bukan hanya tentang jarak secara geografis, tapi tentang **cara pandang, pemahaman, dan empati**.
 
 ---
 
 ## 🎬 Fitur Utama
 
-* 🎧 **Ambient Sound Experience**
-  Musik latar untuk meningkatkan suasana storytelling
+* 🌄 **Cinematic Storytelling Experience**
+  Alur cerita disusun seperti perjalanan visual
 
-* 🌄 **Parallax Scrolling**
-  Background bergerak untuk efek kedalaman visual
+* 🎧 **Ambient Sound**
+  Musik latar untuk memperkuat suasana emosional
 
 * ✨ **Animated Text Reveal**
-  Teks muncul secara bertahap (cinematic feel)
+  Teks muncul bertahap (cinematic feel)
 
 * 🌌 **Particle Effect**
-  Elemen visual kecil yang memperkaya atmosfer
+  Elemen visual untuk memperkaya atmosfer
+
+* 🌀 **Parallax Scrolling**
+  Efek kedalaman saat scroll
 
 * 📱 **Responsive Design**
-  Optimal di desktop maupun mobile
+  Optimal di desktop dan mobile
 
 * 🔊 **Sound Control Button**
-  Kontrol audio langsung dari user
+  Kontrol audio langsung oleh user
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 
-* HTML
-* CSS
-* JavaScript
-
+* **HTML5**
+* **CSS3**
+* **JavaScript**
 ---
 
 ## 📁 Struktur Project
 
-```
-papua-story/
+```bash
+cerita-papua/
 │
 ├── index.html
 ├── style.css
@@ -69,10 +68,10 @@ papua-story/
 
 ## 🚀 Cara Menjalankan
 
-1. Clone repository ini
+1. Clone repository
 
 ```bash
-git clone https://github.com/agusadhitama/papua-story.git
+git clone https://github.com/agusadhitama/cerita-papua.git
 ```
 
 2. Masuk ke folder project
@@ -81,17 +80,17 @@ git clone https://github.com/agusadhitama/papua-story.git
 cd cerita-papua
 ```
 
-3. Jalankan file
+3. Jalankan di browser
 
 ```bash
 index.html
 ```
 
-Atau cukup buka langsung di browser.
+Atau buka langsung via Live Demo.
 
 ---
 
-## 💡 Insight dari Project
+## 💡 Insight Project
 
 Project ini bukan sekadar latihan coding.
 
@@ -99,30 +98,24 @@ Tapi tentang:
 
 * Bagaimana **cerita bisa disampaikan lewat teknologi**
 * Bagaimana **UI/UX mempengaruhi emosi pengguna**
-* Dan bagaimana **web bisa terasa seperti pengalaman, bukan hanya halaman**
-
----
-
-## 📸 Preview
-
-Tambahkan screenshot project kamu di sini untuk memperkuat visual.
+* Bagaimana web bisa menjadi **pengalaman, bukan sekadar halaman**
 
 ---
 
 ## 🙌 Credit
 
-Dibuat dengan penuh eksplorasi oleh:
+Dibuat oleh:
 
 **Agus Satria Adhitama**
 
 ---
 
-## 📢 Catatan
+## 📢 Support
 
-Jika kamu merasa project ini menarik, jangan ragu untuk:
+Jika kamu suka project ini:
 
 * ⭐ Star repository ini
-* 🍴 Fork dan eksplor sendiri
+* 🍴 Fork dan eksplor
 * 💬 Berikan feedback
 
 ---
