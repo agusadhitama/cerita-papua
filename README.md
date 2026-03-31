@@ -1,4 +1,4 @@
-# 🌌 Papua: A Journey Beyond Distance
+# 🌌 Papua : A Journey Beyond Distance
 
 > *“Mungkin yang jauh bukan Papua… tapi cara kita melihatnya.”*
 
